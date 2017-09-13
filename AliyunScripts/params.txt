@@ -1,0 +1,5 @@
+{
+	'Action': 'RenewInstance',
+	'InstanceId':'i-j6c4lpnfv7wwvw5a55p6',
+	'Period':'1',
+}
